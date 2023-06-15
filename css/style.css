@@ -1,7 +1,7 @@
 /* Base */
 body {
   line-height: 1.7;
-  color: gray;
+  color: white;
   font-weight: 300;
   background-color: #222831;
   font-size: 16px; }
@@ -905,12 +905,12 @@ h1, h2, h3, h4, h5,
       top: 0;
       left: 0;
       bottom: 0;
-      background: #ee1e46; }
+      background: #162E58; }
 
 .custom-table {
   margin-bottom: 0; }
   .custom-table thead tr th {
-    background: #ee1e46;
+    background: #162E58;
     color: #fff;
     border: none; }
   .custom-table tbody tr td {
